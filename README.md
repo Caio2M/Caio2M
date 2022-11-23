@@ -1,4 +1,4 @@
-## Olá eu sou o Caio Marinho, estudo sobre programação e tecnologia!
+## Olá meu nome Caio Marinho e eu estudo sobre programação e tecnologia!
 <div align="center">
   <a href="https://github.com/Caio2M">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Caio2M&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
