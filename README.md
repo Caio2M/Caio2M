@@ -3,8 +3,6 @@
 <h1 align="center">Olá, meu nome é Caio <br/>e eu sou desenvolvedor Front-end</h1>
 <div align="center">
   <a href="https://github.com/Caio2M">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Caio2M&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio2M&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div align="center" style="display: inline_block;"><br>
   <img align="center" height="auto" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
