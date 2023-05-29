@@ -1,5 +1,5 @@
 
-# Olá, eu sou a Caio! 👋
+# Olá, eu sou o Caio! 👋
 
 
 ## 🚀 Sobre mim
