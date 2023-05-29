@@ -3,8 +3,7 @@
 
 
 ## 🚀 Sobre mim
-Sou desenvolvedor Front-end Mobile.
-
+### Sou desenvolvedor Front-end Mobile.
 
 
 👩‍💻 Trabalho atualmente na Lab2dev.
