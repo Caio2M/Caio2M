@@ -17,5 +17,5 @@
 
 
 ## 🛠 Skills
-Javascript, Typescript, HTML, CSS.
+Javascript, Typescript, HTML, CSS, React Native.
 
