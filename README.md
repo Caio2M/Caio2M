@@ -1,14 +1,14 @@
 
-# Olá, eu sou o Caio! 👋
+# Hi, I'm Caio! 👋
 
 
-## 🚀 Sobre mim
-### Sou desenvolvedor Front-end Mobile.
+## 🚀 About me
+### I'm Front-end Mobile Developer.
 
 
-👩‍💻 Trabalho atualmente na Lab2dev.
+👩‍💻 Work at Lab2dev.
 
-🧠 Estou aprendendo React Native.
+🧠 I'm studying React Native.
 
 
 ## 🔗 Links
@@ -16,6 +16,6 @@
 
 
 
-## 🛠 Habilidades
+## 🛠 Skills
 Javascript, Typescript, HTML, CSS.
 
