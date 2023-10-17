@@ -1,8 +1,6 @@
 
 # Hi, I'm Caio! 👋
 
-
-## 🚀 About me
 ### I'm Front-end Mobile Developer.
 
 
@@ -17,5 +15,5 @@
 
 
 ## 🛠 Skills
-Javascript, Typescript, HTML, CSS, React Native.
+Javascript, Typescript, React Native.
 
