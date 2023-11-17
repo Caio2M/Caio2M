@@ -6,7 +6,7 @@
 
 👩‍💻 Work at Lab2dev.
 
-🧠 I'm studying React Native.
+🧠 I'm studying Kotlin.
 
 
 ## 🔗 Links
