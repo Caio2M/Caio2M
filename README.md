@@ -6,7 +6,7 @@
 
 👩‍💻 Work at Lab2dev.
 
-🧠 I'm studying Kotlin.
+🧠 I'm studying Android - Jetpack Compose.
 
 
 ## 🔗 Links
