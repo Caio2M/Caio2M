@@ -1,7 +1,7 @@
 
 # Hi, I'm Caio! 👋
 
-### I'm Front-end Mobile Developer.
+### I'm Mobile Developer.
 
 
 👩‍💻 Work at Lab2dev.
